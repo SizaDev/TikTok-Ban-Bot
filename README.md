@@ -54,4 +54,4 @@ This code is intended for educational purposes. The author takes no responsibili
 
 ## Telegram Channel
 
-For updates and discussions, you can join the Telegram channel: [SizaGodCh](https://t.me/SizaGodCh)
+For updates and discussions, you can join the Telegram channel: [SizaGodCh](https://t.me/SizaGods)
