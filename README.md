@@ -2,7 +2,7 @@
 This Python script uses the `requests` library to interact with the TikTok API to report a user based on their ID. The functionality allows you to continuously send report requests to the API.
 
 ## Requirements
-Make sure you have the following libraries installed:  
+Make sure you have the following libraries installed:
  
 - requests
 - json    
